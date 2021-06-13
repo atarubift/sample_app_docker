@@ -1,4 +1,4 @@
-# Sample__App_Docker
+# SampleAppDocker
 
 Rails Tutorial 第3章を実行するための環境です。
 
