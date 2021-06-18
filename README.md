@@ -3,6 +3,7 @@
 Rails Tutorial 第3章を実行するための環境です。
 
 ## 使い方
+このリポジトリをforkしてください
 ```
 $ git clone https://github.com/atarubift/sample_app_docker.git
 $ docker-compose build
